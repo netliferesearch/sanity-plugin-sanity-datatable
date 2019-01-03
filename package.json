@@ -1,5 +1,5 @@
 {
-  "name": "sanity-plugin-datatable",
+  "name": "sanity-datatable",
   "author": "Fredrik Jensen [hello@fredrikjensen.com]",
   "version": "1.0.5",
   "description": "Plugin for adding table support to Sanity",
