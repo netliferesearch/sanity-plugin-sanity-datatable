@@ -2,6 +2,8 @@
 
 This is a plugin for [Sanity CMS](http://sanity.io) which adds support for tables.
 
+Modified: Added buttons for deleting rows and columns
+
 ```js
 sanity install datatable
 ```
@@ -17,6 +19,6 @@ Example:
   name: 'myAwesomeTable',
   type: 'table'
 }
-
 ```
+
 🎉
